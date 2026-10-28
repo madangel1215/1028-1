@@ -1,0 +1,8 @@
+{
+  "name": "Remix 行銷指標監測儀表板",
+  "description": "全方位行銷指標監測儀表板，涵蓋曝光集客、參與互動、轉換成效、顧客留存與 B2B 企管顧問服務（策略管理、數據分析、變革管理）核心指標與三層次轉換目標設定。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
